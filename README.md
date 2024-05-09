@@ -1,9 +1,9 @@
 # Police Shootings Analysis
 
-![GitHub](https://img.shields.io/github/license/yourusername/yourrepository)
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/yourrepository)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/yourrepository)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/yourrepository)
+![GitHub](https://img.shields.io/github/license/MoisesAdame/American-Police-Brutality-Data-Analysis.git)
+![GitHub repo size](https://img.shields.io/github/repo-size/MoisesAdame/American-Police-Brutality-Data-Analysis.git)
+![GitHub issues](https://img.shields.io/github/issues/MoisesAdame/American-Police-Brutality-Data-Analysis.git)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/MoisesAdame/American-Police-Brutality-Data-Analysis.git)
 
 This project aims to provide insights into police shootings data using Python. The project allows users to interactively explore various aspects of police shootings such as demographics, locations, and circumstances surrounding the incidents.
 
@@ -30,7 +30,7 @@ This tool leverages Python libraries such as Pandas and Pillow to analyze and vi
 
 Ensure you have Python 3.x installed on your system.
 
-1. Clone this repository: [git clone https://github.com/MoisesAdame/yourrepository.git](https://github.com/MoisesAdame/American-Police-Brutality-Data-Analysis.git)
+1. Clone this repository: [git clone https://github.com/MoisesAdame/American-Police-Brutality-Data-Analysis.git](https://github.com/MoisesAdame/American-Police-Brutality-Data-Analysis.git)
 
 2. Install the required packages: pip install pandas pillow
 
